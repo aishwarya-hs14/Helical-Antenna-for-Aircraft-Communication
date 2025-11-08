@@ -62,8 +62,8 @@ Developed as a **final-year ECE major project** at **Canara Engineering College 
 ## 🖥️ Output Snapshots
 
 ### 🔹 Virtual Radar Interface
-![Virtual Radar Output 1](IMAGES/Virtual_radar_op1.jpeg)
-![Virtual Radar Output 2](IMAGES/Virtual_radar_op2.jpeg)
+![Virtual Radar Output 1](IMAGES/virtual_radar_op1.jpeg)
+![Virtual Radar Output 2](IMAGES/virtual_radar_op2.jpeg)
 
 ### 🔹 Helical Antenna Setup
 ![Helical Antenna](IMAGES/Helical_antenna.jpeg)
