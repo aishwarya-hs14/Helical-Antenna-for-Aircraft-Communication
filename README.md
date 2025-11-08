@@ -23,11 +23,12 @@ Developed as a **final-year ECE major project** at **Canara Engineering College 
 ---
 
 ## ⚙️ System Architecture
+
 ### 🧩 Flow Diagram
-![Flow Diagram](IMAGES/Flow_diagram.png)
+[Click to view Flow Diagram](IMAGES/Flow_diagram.png)
 
 ### 🧩 Sequence Diagram
-![Sequence Diagram](IMAGES/Sequence_diagram.png)
+[Click to view Sequence Diagram](IMAGES/Sequence_diagram.png)
 
 ---
 
@@ -62,14 +63,14 @@ Developed as a **final-year ECE major project** at **Canara Engineering College 
 ## 🖥️ Output Snapshots
 
 ### 🔹 Virtual Radar Interface
-![Virtual Radar Output 1](IMAGES/virtual_radar_op1.jpeg)
-![Virtual Radar Output 2](IMAGES/virtual_radar_op2.jpeg)
+- [View Virtual Radar Output 1](IMAGES/Virtual_radar_op1.jpeg)
+- [View Virtual Radar Output 2](IMAGES/Virtual_radar_op2.jpeg)
 
 ### 🔹 Helical Antenna Setup
-![Helical Antenna](IMAGES/Helical_antenna.jpeg)
+- [View Helical Antenna Image](IMAGES/Helical_antenna.jpeg)
 
 ### 🔹 Virtual Radar Server Interface
-![Virtual Radar Server](IMAGES/Virtual_radar_server.png)
+- [View Virtual Radar Server](IMAGES/Virtual_radar_server.png)
 
 ---
 
